@@ -1,0 +1,24 @@
+
+.imagem{
+    width: unset;
+    height: unset;
+}
+
+.margem figcaption h5{
+    font-weight: 700;
+}
+.margem figcaption p{
+    color: #000000a0;
+}
+
+.imgAbout{
+    width: unset;
+}
+
+@media (max-width:576px){
+   
+    .imagem{
+        width: 120px !important;
+        height: 100px !important;
+    }
+}

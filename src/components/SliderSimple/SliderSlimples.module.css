@@ -1,0 +1,41 @@
+.imagem {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+
+.seccao_simples {
+    background: linear-gradient(#092032a0, #0920326a), url('../../assets/img/bg_banner1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 80px 0;
+    color: #fff;
+    margin-top: 50px;
+}
+
+
+.frase{
+    margin-top: 100px !important;
+    position: relative;
+}
+
+.infromacao p{
+    font-size: 1em;
+    margin-top: 10px;
+}
+
+.infromacao h5,small{
+    margin-top: -15px;
+}
+
+
+.infromacao small{
+    color: #fff;
+    font-weight: bold;
+    
+}

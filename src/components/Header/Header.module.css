@@ -1,0 +1,12 @@
+.bgColor{
+    background-color: red !important;
+    color: #fff !important;
+}
+
+.cor{
+    color: red;
+    font-size: .8em;
+}
+.cor:hover{
+    color: aqua;
+}

@@ -1,0 +1,67 @@
+.figura {
+    text-align: center;
+
+    box-sizing: border-box;
+    position: relative;
+    border-radius: 2em;
+
+}
+
+.figura img {
+    border-radius: 2em;
+}
+
+.socias_rede {
+    background-color: #ed2e087c;
+    position: absolute;
+    top: 0;
+    width: 100% !important;
+    height: 85%;
+    border-radius: 2em;
+    padding-top: 50%;
+    transition: all ease-in .4s;
+    opacity: 0;
+}
+
+.socias_rede:hover {
+    height: 100%;
+    opacity: 1;
+}
+
+.socias_rede:hover>.meus_icon {
+    margin-top: 0;
+    opacity: 1;
+    transition: all ease .4s;
+}
+
+.figC {
+    text-align: center !important;
+    margin-top: 10px;
+}
+
+.figC h4 {
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #000000b9;
+}
+
+.figC p {
+    color: #00000092;
+}
+
+.meus_icon {
+    font-size: 1.8em;
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 5px;
+    margin: 6px;
+    margin-top: 50%;
+    opacity: 0;
+
+    color: #ff4d29;
+}
+
+
+.texto_top h6{
+    color: #ff4d29;
+}

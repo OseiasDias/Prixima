@@ -1,0 +1,21 @@
+
+
+.header h6{
+    color: #ff4d29 ;
+}
+
+.margin{
+    margin: 10px 5px;
+    box-shadow: 3px 2px 17px rgba(0,0,0,.4);
+    padding: 35px 20px;
+} 
+
+
+
+@media (max-width:576px){
+   
+    .formatarImg{
+        width: 120px !important;
+        height: 100px !important;
+    }
+}

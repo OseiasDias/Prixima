@@ -1,0 +1,54 @@
+.navbar_brand div{
+    
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background-color:  #ff4d29;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.footer{
+    background: linear-gradient(#092032a0, #0920326a), url('../../assets/img/bg_banner1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px 0 0 0;
+    color: #fff;
+    margin-top: 50px;
+}
+
+
+.meus_icon {
+    font-size: 1.8em;
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 5px;
+    margin: 6px;
+
+    color: #ff4d29;
+}
+
+.meus_icon:hover{
+    background-color: #ff4d29 !important;
+    color: #fff;
+}
+
+
+
+.linha{
+    border-bottom:1px solid #fff;
+    padding-bottom: 40px !important;
+   
+}
+
+.footer_bottom{
+    text-align: center;
+    padding: 10px !important;
+    margin-top:10px !important;
+}
+
+.footer_bottom p span{
+
+    color: #dddd;
+}

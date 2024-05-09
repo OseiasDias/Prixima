@@ -1,0 +1,24 @@
+
+
+.figura{
+    box-shadow: 1px 4px 20px rgba(0,0,0,0.4);
+}
+
+.figC a{
+    color: #ff4d29;;
+}
+
+.figC h4{
+    font-size: 1.3em;
+    font-weight: 700;
+    margin: 7px 0;
+    color: #000000e0;
+}
+
+.figC p{
+    color: #000000ed;
+}
+
+.texto_top h6{
+    color: #ff4d29;
+}

@@ -1,0 +1,62 @@
+
+
+
+.menu{
+    box-shadow: 0 2px 5px rgba(0,0,0,.7);
+    color: #000 !important;
+    width: 100%;
+    position: fixed;
+    background-color: #fff;
+    display: block;
+    top: -10px;
+    
+    
+}
+
+.navbar_brand{
+  font-size: 1.8em;
+  font-weight: 600;
+}
+
+
+.navbar_brand .dot{
+    
+    width: 4px;
+    height: 4px;
+   
+    background-color:  #ff4d29;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+
+.preso_top {
+  position: -webkit-sticky !important;
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 1020 !important;
+  border: 10px solid #000;
+}
+
+.btnContacto{
+   background-color: #ff4d29 !important;
+   color: #fff !important;
+   margin-left: 5px;
+}
+
+.btnContacto:hover{
+  background-color: #f0310b !important;
+  color: #fff !important;
+}
+
+.btn_comeca{
+    background-color: #ff4d29 !important;
+    color: #fff !important;
+    border: 2px solid #fff;
+}
+
+.btn_comeca:hover{
+  background-color: #fff !important;
+  border: 2px solid #ff4d29;
+  color: #ff4d29 !important;
+}

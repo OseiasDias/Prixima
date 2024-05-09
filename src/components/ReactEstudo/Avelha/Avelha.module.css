@@ -1,0 +1,22 @@
+body {
+    overflow-x: hidden;
+}
+
+.corpo {
+
+    left: 40%;
+    transform: rotateX(-40%);
+
+    margin-top: 150px;
+    position: relative;
+
+
+
+}
+
+.quadro {
+    border: none;
+    border: 1px solid #000;
+    padding: 25px 35px;
+
+}

@@ -1,0 +1,33 @@
+
+/*Difinir  o tamanho dos Icon,Cores, Efeitos Hover*/
+
+.meus_icons{
+    font-size: 1.4em !important;
+}
+
+.cor_fundo{
+    background-color: #ff4d29;
+    width: 100%;
+    
+}
+
+.link_socias a{
+    font-size: 1.4em !important;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+.link_socias a:hover{
+    
+    
+  
+    color: #ffffffda;
+    
+}
+
+@media (max-width:768px){
+    .cor_fundo{
+        border: 2px solid rebeccapurple !important;
+        display: none !important;
+    }
+}
