@@ -14,7 +14,7 @@
 
 .margin:hover{
     transform: translateY(-25px) !important;
-    border: 2px solid #ff4d29 !important;
+    margin-top: 15px !important;
 }
 
 
