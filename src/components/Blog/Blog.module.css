@@ -2,6 +2,7 @@
 
 .figura{
     box-shadow: 1px 4px 20px rgba(0,0,0,0.4);
+    transition: all ease-in .3s !important;
 }
 .figura:hover{
     transform: translateY(-20px) !important;
